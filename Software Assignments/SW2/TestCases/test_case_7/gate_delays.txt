@@ -1,0 +1,20 @@
+// Format:
+// GATE_IMPLEMENTATION GATE_TYPE GATE_DELAY GATE_AREA
+// Delays in nanoseconds
+// Ignore blank lines, lines with spaces only, and lines starting with "//"
+
+NAND2_1 NAND2 0 11.2
+NAND2_2 NAND2 0 10
+NAND2_3 NAND2 0 5.3
+AND2_1 AND2 0 8.5
+AND2_2 AND2 0 12
+AND2_3 AND2 0 19.6
+NOR2_1 NOR2 0 10
+NOR2_2 NOR2 0 12.5
+NOR2_3 NOR2 0 15
+OR2_1 OR2 0 12.8
+OR2_2 OR2 0 10.3
+OR2_3 OR2 0 17
+INV_1 INV 0 7.33
+INV_2 INV 0 4.6
+INV_3 INV 0 2.5
