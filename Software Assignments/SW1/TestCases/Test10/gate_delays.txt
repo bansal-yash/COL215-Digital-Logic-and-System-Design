@@ -1,0 +1,8 @@
+NAND2 5
+AND2 2
+NOR2 6
+OR2 5
+INV 0
+
+
+
